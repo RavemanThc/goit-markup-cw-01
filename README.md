@@ -1,2 +1,2 @@
-# goit-markup-cw-01
+# goit-markup-cw-blended-01
 Class work in Goit
